@@ -13,3 +13,6 @@ while number != 1:
     number = collatz(number)
 
 
+tEst = 10
+varA = 11
+varB = 12
